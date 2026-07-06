@@ -98,7 +98,7 @@ Configurar una VPN site-to-site **IPSec basada en rutas (route-based / VTI - Vir
 
 ## 🔧 Configuración
 
-Ver archivo: `Configuración para VPN IPSec Route-Based IKEv1.txt`
+Ver archivo: `files/config.txt`
 
 ---
 
@@ -120,7 +120,7 @@ Se espera:
 ## 📸 Capturas de Pantalla
 
 ```
-evidencias/
+images/
 ├── 01_topologia.png
 ├── 02_show_ip_route.png
 ├── 03_show_crypto_isakmp_sa.png
