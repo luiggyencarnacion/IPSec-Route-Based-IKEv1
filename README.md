@@ -122,13 +122,10 @@ Se espera:
 ```
 evidencias/
 ├── 01_topologia.png
-├── 02_crypto_isakmp_policy.png
-├── 03_crypto_ipsec_profile_tunnel0.png
-├── 04_show_ip_interface_brief.png
-├── 05_show_ip_route.png
-├── 06_show_crypto_isakmp_sa.png
-├── 07_show_crypto_ipsec_sa.png
-└── 08_ping_pc1_pc2.png
+├── 02_show_ip_route.png
+├── 03_show_crypto_isakmp_sa.png
+├── 04_show_crypto_ipsec_sa.png
+└── 05_wireshark_esp_trafico.png
 ```
 
 ---
